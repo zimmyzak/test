@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
+#EXTINF:-1 tvg-id="btsp1" tvg-name="TNT Sports 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt1.png" group-title="CricHD-v2",TNT Sports 1
+#EXTVLCOPT:http-referer=https://dostplay.pro/
+#EXTVLCOPT:http-origin=https://dostplay.pro
+https://jan.player0003.com:8099/hls/bmkbh4ts42pads1ad1ad.m3u8?md6=F5wWKY2IuiwTLJSe8FtVBg&expires=1762460117
